@@ -1,0 +1,3 @@
+liquorland:
+  provider:
+      url: http://localhost:8081/home/latestPlans
